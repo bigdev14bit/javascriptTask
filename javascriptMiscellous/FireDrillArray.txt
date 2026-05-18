@@ -1,0 +1,8 @@
+1. coll3ct 10 scores and put them in array
+2. print array in taskone vertically
+3. print array in taskone horinzontally
+4. write a function that takes an array and output an array containing the elements in the even index
+5. write a function that takes an array and output an array containing the elements in the odd index
+6. write a function that takes the output of taskfour and return the sum
+7. write a function that takes the output of taskfive and returns the sum
+8. output the minimum of task four 
